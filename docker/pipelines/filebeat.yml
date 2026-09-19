@@ -1,0 +1,21 @@
+filebeat.inputs:
+  - type: log
+    enabled: true
+
+    paths:
+      - /var/log/nginx/access.log
+    scan_frequency: 1s
+    fields:
+      log_type: nginx_access
+
+    fields_under_root: true
+
+
+output.logstash:
+  hosts:
+    - "logstash:5044"
+
+
+logging.level: info
+logging.to_stderr: true
+
