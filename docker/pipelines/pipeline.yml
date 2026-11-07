@@ -1,4 +1,0 @@
-- pipeline.id: rmd_homework
-  pipeline.workers: 1
-  pipeline.batch.size: 1
-  path.config: "/usr/share/logstash/config/config.conf"
