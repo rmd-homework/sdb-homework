@@ -21,11 +21,11 @@
 (для каждой таблицы свой сервер с бд и репликой). Получаем: БД ДБ1 информация о пользователях, БД ДБ2 информация 
 о книгах, БД ДБ3 информация о магазинах.
 ---
-[1](https://github.com/rmd-homework/sdb-homework/blob/main/img/1.png)
+![1](https://github.com/rmd-homework/sdb-homework/blob/main/img/1.png)
 ---
 Горизонтальный шардинг: в этом случае таблица делится по строкам, в нашем примере распределил БД по количеству
 пользователей. Получилось: БД ДБ1 пользователи с id от 1 до 50000, БД ДБ2 пользователи с id от 50000 до 100000
 БД ДБ3 пользователи с id от 100000 до 150000
 ---
-[2](https://github.com/rmd-homework/sdb-homework/blob/main/img/2.png)
+![2](https://github.com/rmd-homework/sdb-homework/blob/main/img/2.png)
 ---
