@@ -4,9 +4,9 @@
 ### Задание 1
 ---
 ![1](https://github.com/rmd-homework/sdb-homework/blob/main/img/1.png)
-  https://www.exploit-db.com/exploits/17491?utm_source
-  https://www.exploit-db.com/exploits/16922?utm_source
-  https://www.exploit-db.com/exploits/16320?utm_source
+![2](https://www.exploit-db.com/exploits/17491?utm_source)
+![3](https://www.exploit-db.com/exploits/16922?utm_source)
+![4](https://www.exploit-db.com/exploits/16320?utm_source)
 ---
 ### Задание 2
 ---
